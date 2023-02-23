@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+body{ 
+    background-color:rgb(226, 224, 222);
+}
+
+figure{
+    text-align: center;
+}
+
+h4{
+    text-align: left;
+    color:rgb(49, 161, 39);
+}
+
+.vídeo{
+    text-align: center;
+}
+
+.fim{
+    text-align: center;
+    color:rgb(49, 161, 39);
+}
+
+.Voltar{
+    text-align: right;
+}

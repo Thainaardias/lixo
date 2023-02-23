@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color:rgb(49, 161, 39);
+}
+
+h3{
+    text-align: left;
+}
+
+
+img{
+    border-radius: 50%;
+}
+
+figure{
+    text-align: center;
+}
+
+.Curso{
+    color:rgb(49, 161, 39);
+}
+
+.Atuação{
+    color:rgb(49, 161, 39);
+}
+
+.Fim{
+    color:rgb(49, 161, 39);
+}
+
+.Voltar{
+    text-align: right;
+}
+
+h4{
+    text-align: center;
+    color:rgb(49, 161, 39);
+}
+
+body{ 
+    background-color:rgb(226, 224, 222);
+}
